@@ -105,12 +105,12 @@ I’m **Venu Gopal Krishna Devadi**, a graduate student specializing in **Data S
 2. Install required libraries:  
    pip install -r requirements.txt
    
-📂 Repository Files
+## 📂 Repository Files
 Notebooks: Code for binary and multi-label classification.
 Data: Scripts to preprocess and load data.
 Results: Visualization of model performance metrics.
 
-🚀 Future Work
+## 🚀 Future Work
 Extend to a broader dataset, including unverified accounts.
 Experiment with zero-shot classification techniques.
 Explore explainability techniques to enhance model transparency.
